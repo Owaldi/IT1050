@@ -1,0 +1,10 @@
+C:\Users\s00964551\Desktop\myfirstproject\myfirstproject\bin\Debug\myfirstproject.exe.config
+C:\Users\s00964551\Desktop\myfirstproject\myfirstproject\bin\Debug\myfirstproject.exe
+C:\Users\s00964551\Desktop\myfirstproject\myfirstproject\bin\Debug\myfirstproject.pdb
+C:\Users\s00964551\Desktop\myfirstproject\myfirstproject\bin\Debug\myfirstproject.xml
+C:\Users\s00964551\Desktop\myfirstproject\myfirstproject\obj\Debug\myfirstproject.Form1.resources
+C:\Users\s00964551\Desktop\myfirstproject\myfirstproject\obj\Debug\myfirstproject.Resources.resources
+C:\Users\s00964551\Desktop\myfirstproject\myfirstproject\obj\Debug\myfirstproject.vbproj.GenerateResource.Cache
+C:\Users\s00964551\Desktop\myfirstproject\myfirstproject\obj\Debug\myfirstproject.exe
+C:\Users\s00964551\Desktop\myfirstproject\myfirstproject\obj\Debug\myfirstproject.xml
+C:\Users\s00964551\Desktop\myfirstproject\myfirstproject\obj\Debug\myfirstproject.pdb
