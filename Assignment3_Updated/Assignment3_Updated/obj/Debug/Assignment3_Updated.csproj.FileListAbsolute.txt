@@ -3,3 +3,6 @@ C:\Users\s00964551\Desktop\Assignment3_Updated\Assignment3_Updated\bin\Debug\Ass
 C:\Users\s00964551\Desktop\Assignment3_Updated\Assignment3_Updated\bin\Debug\Assignment3_Updated.pdb
 C:\Users\s00964551\Desktop\Assignment3_Updated\Assignment3_Updated\obj\Debug\Assignment3_Updated.exe
 C:\Users\s00964551\Desktop\Assignment3_Updated\Assignment3_Updated\obj\Debug\Assignment3_Updated.pdb
+C:\Users\s00964551\Desktop\IT1050\Assignment3_Updated\Assignment3_Updated\bin\Debug\Assignment3_Updated.exe.config
+C:\Users\s00964551\Desktop\IT1050\Assignment3_Updated\Assignment3_Updated\obj\Debug\Assignment3_Updated.exe
+C:\Users\s00964551\Desktop\IT1050\Assignment3_Updated\Assignment3_Updated\obj\Debug\Assignment3_Updated.pdb
