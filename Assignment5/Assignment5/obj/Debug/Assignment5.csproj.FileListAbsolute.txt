@@ -1,0 +1,6 @@
+F:\IT Class\Assignment5\Assignment5\bin\Debug\Assignment5.exe.config
+F:\IT Class\Assignment5\Assignment5\bin\Debug\Assignment5.exe
+F:\IT Class\Assignment5\Assignment5\bin\Debug\Assignment5.pdb
+F:\IT Class\Assignment5\Assignment5\obj\Debug\Assignment5.csprojResolveAssemblyReference.cache
+F:\IT Class\Assignment5\Assignment5\obj\Debug\Assignment5.exe
+F:\IT Class\Assignment5\Assignment5\obj\Debug\Assignment5.pdb
