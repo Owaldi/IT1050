@@ -1,0 +1,14 @@
+C:\Users\s00964551\Desktop\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\s00964551\Desktop\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+C:\Users\s00964551\Desktop\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+C:\Users\s00964551\Desktop\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+C:\Users\s00964551\Desktop\Assignment4\Assignment4\obj\Debug\Assignment4.pdb
+E:\IT Class\assignment4\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+E:\IT Class\assignment4\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+E:\IT Class\assignment4\Assignment4\Assignment4\obj\Debug\Assignment4.pdb
+F:\IT Class\assignment4\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+F:\IT Class\assignment4\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+F:\IT Class\assignment4\Assignment4\Assignment4\obj\Debug\Assignment4.pdb
+F:\IT Class\assignment4\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+F:\IT Class\assignment4\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+F:\IT Class\assignment4\Assignment4\Assignment4\obj\Debug\Assignment4.csprojResolveAssemblyReference.cache
